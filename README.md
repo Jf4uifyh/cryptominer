@@ -1,0 +1,2 @@
+# cryptominer
+The best cryptominer! 
